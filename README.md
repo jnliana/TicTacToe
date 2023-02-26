@@ -1,5 +1,5 @@
 # TicTacToe
-Tic Tac Toe react and Typescript
+Tic Tac Toe with React and Typescript
 
 This is a game to practice useState in React using Typescript.
 
